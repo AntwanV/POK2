@@ -1,5 +1,5 @@
 {
-  "name": "pok2",
+  "name": "projet3a",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -10,13 +10,15 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^14.2.0",
+    "@angular/animations": "^14.2.12",
+    "@angular/cdk": "^13.3.9",
     "@angular/common": "^14.2.0",
     "@angular/compiler": "^14.2.0",
     "@angular/core": "^14.2.0",
     "@angular/forms": "^14.2.0",
+    "@angular/material": "^13.3.9",
     "@angular/platform-browser": "^14.2.0",
-    "@angular/platform-browser-dynamic": "^14.2.0",
+    "@angular/platform-browser-dynamic": "^14.2.12",
     "@angular/router": "^14.2.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
